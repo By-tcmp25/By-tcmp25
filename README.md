@@ -5,7 +5,7 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=By-tcmp25&theme=dark&hide_border=true&layout=compact">
  
-
+<h4>Hello, I am Mehmet pekince, I know intermediate level html, css, javascript and basic level python as much as I know and I will share with you the languages ​​I will learn.</h4>
 
 [Look at my new project.](https://github.com/By-tcmp25)
 
