@@ -7,6 +7,7 @@
  
 <h4>Hello, I am Mehmet pekince, I know intermediate level html, css, javascript and basic level python as much as I know and I will share with you the languages ​​I will learn.</h4>
 
+<h4>and I am sharing the notes and codes I received for you in the C # language that I just started.<h4>
 [Look at my new project.](https://github.com/By-tcmp25)
 
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white%22/%3E" /> <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white%22/%3E" /> <img alt="npm" align="center" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
