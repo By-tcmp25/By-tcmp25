@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/mehmetpknc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmetpknc" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmet_pekince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet_pekince" height="30" width="40" /></a>
+<a href="https://discord.gg/StarLord#3877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="StarLord#3877" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
