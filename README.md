@@ -13,7 +13,7 @@
 
 <h4>Hello, I am Mehmet pekince, I know intermediate level html, css, javascript and basic level python as much as I know and I will share with you the languages ​​I will learn.</h4>
 
-<h4>and I am sharing the notes and codes I received for you in the C # language that I just started.<h4>
+<h4>and I am sharing the notes and codes I received for you in the C #  and java language that I just started.<h4>
 [Look at my new project.](https://github.com/By-tcmp25)
 
 
